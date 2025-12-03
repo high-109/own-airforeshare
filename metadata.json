@@ -1,0 +1,5 @@
+{
+  "name": "WiFiDrop",
+  "description": "Instantly share text and files with devices on your local network. No login, no cloud, just simple sharing.",
+  "requestFramePermissions": []
+}
